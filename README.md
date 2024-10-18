@@ -1,10 +1,8 @@
-# React Todo List
+# Todo List
 
-In this exercise I want you to create a todo list with React Typescript. The todo list is will be simple, not any fancy functionalities or animations _(unless you relly want to get creative)_. The purpose is to solve as much as possible with React and apply a react mindeset. I have created a React TS application to you that is ready to be used.
+In this exercise I want you to create a todo list with Vanilla JavaScript. The todo list is will be simple, not any fancy functionalities or animations _(unless you relly want to get creative)_. The purpose is to solve as much as possible with DOM manipulation. The initial files have been created for you so you can just start coding!
 
-**Before you start, you must run a `npm install` in this folder in order to install all the dependencies. Then you do a `npm run dev` in order to start the application. NO "Live Server" usage here as Vite will fire up a development server for you.**
-
-Below you have a couple of User Stories that are going to follow.
+Below you have a couple of User Stories that are going to follow. A `User Story` is simply just a description of a feature that your todo-list must have. It has a special format, it describes the feature from the user's perspective.
 
 - As a user I want to be able to view all my todos in the same place, to get a good overview of what I have to do.
 
